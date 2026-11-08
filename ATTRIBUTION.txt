@@ -10,4 +10,4 @@ Flow Exercise Dataset · 0047 · CC0-1.0
 Flow Exercise Dataset · 0472 · CC0-1.0
 Flow Exercise Dataset · 0289 · CC0-1.0
 Logo: GymDuo approved branding.
-Firebase SDKs loaded from Google official CDN under their own licenses.
+Firebase SDK 11.10.0 from the official Google CDN, syntax-transformed for Chrome 53/Safari 11 with esbuild. Apache-2.0 license: LICENSE.firebase.txt; original license notices retained. Syntax target is not a physical browser/TV certification.

@@ -1,0 +1,13 @@
+GymDuo TV — shared exercise frames already distributed in the Android application.
+Flow Exercise Dataset · 0043 · CC0-1.0
+Flow Exercise Dataset · 0652 · CC0-1.0
+Flow Exercise Dataset · 1457 · CC0-1.0
+Flow Exercise Dataset · 1764 · CC0-1.0
+Flow Exercise Dataset · 0025 · CC0-1.0
+Flow Exercise Dataset · 0027 · CC0-1.0
+Flow Exercise Dataset · 0032 · CC0-1.0
+Flow Exercise Dataset · 0047 · CC0-1.0
+Flow Exercise Dataset · 0472 · CC0-1.0
+Flow Exercise Dataset · 0289 · CC0-1.0
+Logo: GymDuo approved branding.
+Firebase SDKs loaded from Google official CDN under their own licenses.

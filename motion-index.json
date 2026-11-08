@@ -1,0 +1,52 @@
+{
+  "squat": [
+    "motion/squat-0.svg",
+    "motion/squat-1.svg",
+    "motion/squat-2.svg"
+  ],
+  "pullup": [
+    "motion/pullup-0.svg",
+    "motion/pullup-1.svg",
+    "motion/pullup-2.svg"
+  ],
+  "ohp": [
+    "motion/ohp-0.svg",
+    "motion/ohp-1.svg",
+    "motion/ohp-2.svg"
+  ],
+  "hanging": [
+    "motion/hanging-0.svg",
+    "motion/hanging-1.svg",
+    "motion/hanging-2.svg"
+  ],
+  "bench": [
+    "motion/bench-0.svg",
+    "motion/bench-1.svg",
+    "motion/bench-2.svg"
+  ],
+  "row": [
+    "motion/row-0.svg",
+    "motion/row-1.svg",
+    "motion/row-2.svg"
+  ],
+  "deadlift": [
+    "motion/deadlift-0.svg",
+    "motion/deadlift-1.svg",
+    "motion/deadlift-2.svg"
+  ],
+  "incline": [
+    "motion/incline-0.svg",
+    "motion/incline-1.svg",
+    "motion/incline-2.svg"
+  ],
+  "legraise": [
+    "motion/legraise-0.svg",
+    "motion/legraise-1.svg",
+    "motion/legraise-2.svg"
+  ],
+  "dbpress": [
+    "motion/dbpress-0.svg",
+    "motion/dbpress-1.svg",
+    "motion/dbpress-2.svg"
+  ]
+}
